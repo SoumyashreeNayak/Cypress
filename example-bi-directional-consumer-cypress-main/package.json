@@ -66,5 +66,14 @@
     "lint-staged": "^15.2.2",
     "start-server-and-test": "^2.0.3",
     "typesync": "^0.12.1"
-  }
+  },
+  "description": "[![Build](https://github.com/pactflow/example-bi-directional-consumer-cypress/actions/workflows/build.yml/badge.svg)](https://github.com/pactflow/example-bi-directional-consumer-cypress/actions/workflows/build.yml)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
